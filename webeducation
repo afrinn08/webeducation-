@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Web 3R - Reduce Reuse Recycle</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+    header { background: #4CAF50; color: white; padding: 20px; text-align: center; }
+    nav { background: #333; padding: 10px; text-align: center; }
+    nav a { color: white; margin: 0 15px; text-decoration: none; }
+    section { padding: 20px; }
+    footer { background: #4CAF50; color: white; text-align: center; padding: 10px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Selamat Datang di Web 3R</h1>
+    <p>Reduce, Reuse, Recycle untuk Masa Depan Lebih Baik</p>
+  </header>
+
+  <nav>
+    <a href="#tentang">Tentang 3R</a>
+    <a href="#tips">Tips 3R</a>
+    <a href="#program">Program</a>
+    <a href="#kontak">Kontak</a>
+  </nav>
+
+  <section id="tentang">
+    <h2>Tentang 3R</h2>
+    <p><strong>Reduce:</strong> Mengurangi sampah dari sumbernya.</p>
+    <p><strong>Reuse:</strong> Menggunakan kembali barang agar tidak langsung dibuang.</p>
+    <p><strong>Recycle:</strong> Mendaur ulang sampah menjadi barang baru.</p>
+  </section>
+
+  <section id="tips">
+    <h2>Tips 3R</h2>
+    <ul>
+      <li>Bawa tas belanja sendiri</li>
+      <li>Gunakan botol minum isi ulang</li>
+      <li>Sortir sampah organik dan anorganik</li>
+    </ul>
+  </section>
+
+  <section id="program">
+    <h2>Program & Kegiatan</h2>
+    <p>Kami mengadakan lomba daur ulang setiap bulan. Ayo ikut!</p>
+  </section>
+
+  <section id="kontak">
+    <h2>Kontak Kami</h2>
+    <p>Email: info@web3r.id</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Web 3R Indonesia</p>
+  </footer>
+</body>
+</html>
